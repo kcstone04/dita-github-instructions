@@ -2,10 +2,11 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_ivr_mcp_jdc">
     <title>Creating the GitHub Repository</title>
-    <shortdesc></shortdesc>
+    <shortdesc>In this step, you will learn how to create a repository in GitHub.</shortdesc>
     <taskbody>
         <context>
-            <p></p>
+            <p>This step will teach you how to create the repository based off of the GitHub Actions
+                template. This is necessary to get the GitHub side of your project truly started. </p>
         </context>
         <steps>
             <step>
