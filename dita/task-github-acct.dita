@@ -1,15 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="task_ivr_mcp_jdc">
-    <title>task-github-acct</title>
-    <shortdesc></shortdesc>
+<task id="task-github-acct">
+    <title>Create an Account on GitHub</title>
+    <shortdesc>In this step, you will learn how to create an account on GitHub.</shortdesc>
     <taskbody>
-        <context>
-            <p></p>
-        </context>
+        <context>This task includes learning how to create a GitHub login and verify the account to
+            use.</context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>Go to <xref href="https://github.com/signup" format="html" scope="external"
+                    />.</cmd>
+            </step>
+            <step>
+                <cmd>Enter your email into the blue box in the center of the screen. Make sure to
+                    use an email that you have access to, as you will need to view GitHub emails
+                    regarding your commits in the future. Click the green “continue” button.</cmd>
+            </step>
+            <step>
+                <cmd>Create a password and type it into the blue box in the center of the screen.
+                    Make sure the password you choose is unique from your other passwords – consider
+                    using a mix of numbers, letters, and special characters. Click on the green
+                    “continue” button. </cmd>
+            </step>
+            <step>
+                <cmd>Enter your desired username into the blue box in the center of the screen. Make
+                    sure to choose something you will remember, such as your first and last name.
+                    Click on the green “continue” button.</cmd>
+            </step>
+            <step>
+                <cmd>Verify your account by solving the puzzle that appears on your screen.</cmd>
+            </step>
+            <step>
+                <cmd>Go to your email inbox to retrieve the 8-digit GitHub launch code. Enter the
+                    code into the boxes on the screen.</cmd>
+            </step>
+            <step>
+                <cmd>Sign in to your GitHub account. </cmd>
             </step>
         </steps>
     </taskbody>
