@@ -9,7 +9,25 @@
         </context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>Open up the GitHub Actions template.</cmd>
+                <info>
+                    <p>Template link: <xref href="https://github.com/VT-Evia/dita-ot-actions"
+                            format="html" scope="external"
+                                ><u>https://github.com/VT-Evia/dita-ot-actions</u></xref></p>
+                </info>
+            </step>
+            <step>
+                <cmd>Click the button that says "Use This Template" in the top right of the screen,
+                    then select "Create Repository".</cmd>
+            </step>
+            <step>
+                <cmd>Select "Include all Branches".</cmd>
+            </step>
+            <step>
+                <cmd>Name your new repository.</cmd>
+            </step>
+            <step>
+                <cmd>Click "Create Repository" to finalize it.</cmd>
             </step>
         </steps>
     </taskbody>
