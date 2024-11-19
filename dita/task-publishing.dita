@@ -9,7 +9,40 @@
         </context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>Make Sure You Have a .ditamap File in Oxygen</cmd>
+                <info>This is necessary, as this is the file that GitHub will be trying to pull
+                    from. Name it "document.ditamap" to make sure it works. </info>
+            </step>
+            <step>
+                <cmd>Ensure that all changes made on Oxygen are committed.</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>From the Oxygen personal workspace, go to "Changes" on the left
+                            sidebar.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Press the blue "Commit..." button, write a message briefly describing
+                            what you have changed, then confirm the commit.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Go to the GitHub repository and check to see if your deliverables are
+                    there!</cmd>
+                <substeps id="substeps_hqs_bdv_kdc">
+                    <substep>
+                        <cmd>The PDF file should be found at the bottom of the most recent commit
+                            under GitHub Actions.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>The HTML should be automatically uploaded to GitHub Pages, so go there
+                            to check (in Settings, then Pages).</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>If the HTML is not uploading automatically, then you must build it manually in
+                    GitHub Pages.</cmd>
             </step>
         </steps>
     </taskbody>
