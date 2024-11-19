@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_ivr_mcp_jdc">
-    <title>Publishing to GitHub</title>
-    <shortdesc></shortdesc>
+    <title>Publishing to GitHub Using GitHub Actions</title>
+    <shortdesc>In this step, you’ll learn how to publish your content.</shortdesc>
     <taskbody>
         <context>
-            <p></p>
+            <p>This step will walk you through the process of publishing your content through GitHub
+                Actions. This is the point where your work in Oxygen and GitHub truly merges into
+                one single workflow. </p>
         </context>
         <steps>
             <step>
