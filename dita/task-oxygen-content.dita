@@ -1,15 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_ivr_mcp_jdc">
-    <title>task-oxygen-content</title>
-    <shortdesc></shortdesc>
+    <title>Adding Content on Oxygen</title>
+    <shortdesc>In this step, you'll learn how to start adding content to Oxygen</shortdesc>
     <taskbody>
-        <context>
-            <p></p>
-        </context>
+        <context>This task includes learning how to create a ditamap and create files, implement
+            titles, descriptions, subheadings, paragraphs, and more<p>Steps</p></context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>Create a DITA map</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>Click on the three dots to open files</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Click "new file"</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Click on the tab marked "DITA" and scroll until you see the file called
+                            Map</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Give the map a name</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Create a file</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>Click on the three dots to open files</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Click "New File"</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Click on the tab marked "DITA" and scroll until you see the file called
+                            "Topic"</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Give the file a name</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Drag the topic file into the DITA map file</cmd>
+            </step>
+            <step>
+                <cmd>Start adding your content</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>Give your file a title</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Add a short description</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Test out different formatting options</cmd>
+                    </substep>
+                </substeps>
+                <substeps id="substeps_dfk_2pz_kdc">
+                    <substep>
+                        <cmd>Headings and subheadings</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Add photos, captions, and alt text</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Write paragraphs</cmd>
+                    </substep>
+                </substeps>
             </step>
         </steps>
     </taskbody>

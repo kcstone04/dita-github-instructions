@@ -2,14 +2,30 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_ivr_mcp_jdc">
     <title>Making a Project in Oxygen Content Fusion</title>
-    <shortdesc></shortdesc>
+    <shortdesc>In this step, you will learn how to create a project on Oxygen Content
+        Fusion.</shortdesc>
     <taskbody>
-        <context>
-            <p></p>
-        </context>
+        <context>This task includes learning how to create a project file on Oxygen Content Fusion
+            that links to the repository you created in GitHub.</context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>Hover over the top left corner of the screen and select the "Projects"
+                    tab</cmd>
+            </step>
+            <step>
+                <cmd>Click "New Project" in Oxygen Content Fusion</cmd>
+            </step>
+            <step>
+                <cmd>Copy the link from your repository into Oxygen</cmd>
+            </step>
+            <step>
+                <cmd>Set the branch to "master"</cmd>
+            </step>
+            <step>
+                <cmd>Get a GitHub token to connect it to the GitHub repository</cmd>
+            </step>
+            <step>
+                <cmd>Give the token Read and Write access under "Contents"</cmd>
             </step>
         </steps>
     </taskbody>
