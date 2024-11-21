@@ -18,6 +18,7 @@
             </step>
             <stepsection>
                 <fig id="fig_jq4_2hm_ldc">
+                    <title>Image depicting step described above</title>
                     <image href="../Images/SignUpForGitHub/enteremail.png" id="image_jhb_fhm_ldc"
                         alt="An arrow is pointing to a blue text box that is titled &quot;Enter your email&quot;."
                     />
@@ -28,6 +29,7 @@
             </step>
             <stepsection>
                 <fig id="fig_irm_4hm_ldc">
+                    <title>Image depicting step described above</title>
                     <image href="../Images/SignUpForGitHub/clickcontinueemail.png"
                         id="image_qsw_4hm_ldc"
                         alt="An arrow is pointing to a button that is labeled &quot;Continue&quot;."
