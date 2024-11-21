@@ -64,17 +64,47 @@
             <step>
                 <cmd>Once the repository is made, Click "Settings "</cmd>
             </step>
+            <stepsection>
+                <fig id="fig_ttt_bh4_ldc">
+                    <title>Image depicting step described above</title>
+                    <image href="../Images/NewStep/clicksetting2.png" id="image_o4k_dh4_ldc"
+                        alt="An arrow pointing to the top menu bar, more specifically the word labeled &quot;Settings&quot;."
+                    />
+                </fig>
+            </stepsection>
             <step>
                 <cmd>Click "Actions"</cmd>
             </step>
+            <stepsection>
+                <fig id="fig_wtb_3h4_ldc">
+                    <title>Image depicting step described above</title>
+                    <image href="../Images/NewStep/clickaction2.png" id="image_f53_3h4_ldc"
+                        alt="An arrow is pointing to the left menu, more specifically the word labeled &quot;Actions&quot;."
+                    />
+                </fig>
+            </stepsection>
             <step>
-                <cmd> Click "General"</cmd>
+                <cmd>Scroll down to"Workflow Permissions"</cmd>
             </step>
-            <step>
-                <cmd>Click on "Workflow Permissions"</cmd>
-            </step>
+            <stepsection>
+                <fig id="fig_k1z_ph4_ldc">
+                    <title>Image depicting step described above</title>
+                    <image href="../Images/NewStep/gotoworkflow.png" id="image_mwg_qh4_ldc"
+                        alt="An arrow is pointing to a section titled &quot;Workflow Permissions&quot;."
+                    />
+                </fig>
+            </stepsection>
             <step>
                 <cmd>Click "Read and write permissions".</cmd>
+                <info>
+                    <fig id="fig_osd_yh4_ldc">
+                        <title>Image depicting step described above</title>
+                        <image href="../Images/NewStep/readandwritepremssions.png"
+                            id="image_rm4_yh4_ldc"
+                            alt="An arrow is pointing to a titled section called &quot;Read And Write Permissions&quot;."
+                        />
+                    </fig>
+                </info>
             </step>
         </steps>
     </taskbody>
