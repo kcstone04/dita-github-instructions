@@ -11,7 +11,7 @@
         </context>
         <steps>
             <step>
-                <cmd>Make Sure You Have a .ditamap File in Oxygen</cmd>
+                <cmd>Make Sure You Have a .ditamap File in Oxygen.</cmd>
                 <info>This is necessary, as this is the file that GitHub will be trying to pull
                     from. Name it "document.ditamap" to make sure it works. </info>
             </step>
