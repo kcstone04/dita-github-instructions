@@ -57,6 +57,10 @@
                     </fig>
                 </info>
             </step>
+            <step>
+                <cmd>Once the repository is made, go to Settings → Actions → General. Then scroll
+                    down to "Workflow permissions" and select "Read and write permissions".</cmd>
+            </step>
         </steps>
     </taskbody>
 </task>
