@@ -104,15 +104,14 @@
                 </info>
                 <substeps id="substeps_r1x_stl_ldc">
                     <substep>
-                        <cmd>Click on the tab marked "DITA" on the left side menu.</cmd>
+                        <cmd>Click on the tab marked "DITA" on the left side menu.<image
+                                href="../Images/Oxygen%20Content%20Task/tabmarkeddita.png"
+                                alt="Arrow pointing to a button called &quot;DITA&quot; on the left hand side menu."
+                                id="image_jbx_ztl_ldc"/></cmd>
                     </substep>
                 </substeps>
                 <info>
-                    <fig id="fig_ibx_ztl_ldc">
-                        <image href="../Images/Oxygen%20Content%20Task/tabmarkeddita.png"
-                            alt="Arrow pointing to a button called &quot;DITA&quot; on the left hand side menu."
-                            id="image_jbx_ztl_ldc"/>
-                    </fig>
+                    <fig id="fig_ibx_ztl_ldc"/>
                 </info>
                 <substeps id="substeps_gbx_ztl_ldc">
                     <substep>

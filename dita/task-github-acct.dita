@@ -45,6 +45,7 @@
                 <cmd>Type your new password into the blue box.</cmd>
                 <info>
                     <fig id="fig_bwp_rhm_ldc">
+                        <title>Image depicting step described above</title>
                         <image href="../Images/SignUpForGitHub/createpasswordemail.png"
                             id="image_en2_shm_ldc"
                             alt="An arrow is pointing to a blue text box that is titled &quot;Create a password&quot;."
@@ -57,6 +58,7 @@
             </step>
             <stepsection>
                 <fig id="fig_xwp_5hm_ldc">
+                    <title>Image depicting step described above</title>
                     <image href="../Images/SignUpForGitHub/clickcontunieforpassword.png"
                         id="image_zrz_t3m_ldc"
                         alt="An arrow is pointing to a button that is labeled &quot;Continue&quot;."
@@ -70,6 +72,7 @@
             </step>
             <stepsection>
                 <fig id="fig_bdp_w3m_ldc">
+                    <title>Image depicting step described above</title>
                     <image href="../Images/SignUpForGitHub/enterusername2.png" id="image_rh3_ljm_ldc"
                         alt="An arrow is pointing to a blue box titled &quot;Enter a username&quot;."
                     />
@@ -80,6 +83,7 @@
             </step>
             <stepsection>
                 <fig id="fig_ffv_w3m_ldc">
+                    <title>Image depicting step described above</title>
                     <image href="../Images/SignUpForGitHub/cusername.png" id="image_xnt_hkm_ldc"
                         alt="An arrow is pointing to a button that is labeled &quot;Continue&quot;."
                     />
