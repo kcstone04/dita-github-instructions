@@ -14,6 +14,7 @@
             </step>
             <stepsection>
                 <fig id="fig_pdp_db1_ldc">
+                    <title>Image depicting step described above</title>
                     <image href="../Images/clickproject.png" id="image_xs4_gb1_ldc"
                         alt="An arrow is pointing to a white button in the top left hand corner of the screen that is titled projects."
                     />
@@ -24,6 +25,7 @@
             </step>
             <stepsection>
                 <fig id="fig_mph_lb1_ldc">
+                    <title>Image depicting step described above</title>
                     <image href="../Images/newproject.png" id="image_skl_mb1_ldc"
                         alt="An arrow pointed to a blue button on the right hand side of the screen that is titled New Project."
                     />
@@ -34,6 +36,7 @@
             </step>
             <stepsection>
                 <fig id="fig_bvk_pb1_ldc">
+                    <title>Image depicting step described above</title>
                     <image href="../Images/nameproject.png" id="image_abx_pb1_ldc"
                         alt="An arrow is pointing to a type box that is labeled &quot;Name&quot;."/>
                 </fig>
@@ -46,6 +49,7 @@
             </step>
             <stepsection>
                 <fig id="fig_npj_wb1_ldc">
+                    <title>Image depicting step described above</title>
                     <image href="../Images/giturlproject.png" id="image_f31_yb1_ldc"
                         alt="Arrow pointing to the text box that has the repository link. "/>
                 </fig>
@@ -55,6 +59,7 @@
             </step>
             <stepsection>
                 <fig id="fig_arx_rzj_ldc">
+                    <title>Image depicting step described above</title>
                     <image href="../Images/masterbranchproject.png" id="image_cw1_tzj_ldc"
                         alt="Arrow pointing to a text box labeled &quot;Branch&quot;."/>
                 </fig>
@@ -64,6 +69,7 @@
             </step>
             <stepsection>
                 <fig id="fig_oc4_rdk_ldc">
+                    <title>Image depicting step described above</title>
                     <image href="../Images/githubusernameproject.png" id="image_qj5_5dk_ldc"
                         alt="Arrow points to a text box labeled &quot;Username&quot;."/>
                 </fig>
@@ -75,6 +81,7 @@
                         <cmd>Click the link next “Generate Access Token”</cmd>
                         <info>
                             <fig id="fig_dbc_32k_ldc">
+                                <title>Image depicting step described above</title>
                                 <image href="../Images/generateaccesstoken.png"
                                     id="image_tc4_m2k_ldc"
                                     alt="Arrow points to a link at the bottom of the screen that is labeled &quot;Generate Access Token&quot;."
@@ -86,6 +93,7 @@
                         <cmd>Click “Generate New Token” at the top left hand of the screen. </cmd>
                         <info>
                             <fig id="fig_xzh_rfk_ldc">
+                                <title>Image depicting step described above</title>
                                 <image href="../Images/clickgeneratenewtoke.png"
                                     id="image_dk2_sfk_ldc"
                                     alt="Arrow pointing to the top of the right side of the screen to a button labeled &quot;Generate New Token&quot;."
@@ -97,6 +105,7 @@
                         <cmd>Type in a new name for this token</cmd>
                         <info>
                             <fig id="fig_vjh_5kk_ldc">
+                                <title>Image depicting step described above</title>
                                 <image href="../Images/nametoken.png" id="image_sdc_vkk_ldc"
                                     alt="Arrow is pointed to a text box labeled &quot;token name&quot;."
                                 />
@@ -107,6 +116,7 @@
                         <cmd>Click on “Only Selected Repositories”</cmd>
                         <info>
                             <fig id="fig_dbt_ylk_ldc">
+                                <title>Image depicting step described above</title>
                                 <image href="../Images/onlyselectedrepostiry.png"
                                     id="image_py3_1mk_ldc"
                                     alt="Arrow is pointing to a check box labeled &quot;Only Selected Repositories&quot;."
@@ -119,6 +129,7 @@
                             Oxygen. </cmd>
                         <info>
                             <fig id="fig_ghw_pdl_ldc">
+                                <title>Image depicting step described above</title>
                                 <image href="../Images/selectrepositoryfortoken.png"
                                     id="image_pxw_qdl_ldc"
                                     alt="Arrow pointing ot a text box that is labeled &quot;Search for Repository&quot;"
@@ -130,6 +141,7 @@
                         <cmd>Click “Repository Permissions”</cmd>
                         <info>
                             <fig id="fig_kzg_5dl_ldc">
+                                <title>Image depicting step described above</title>
                                 <image href="../Images/clickrepositorypermissions.png"
                                     id="image_bww_5dl_ldc"
                                     alt="Arrow pointing to a drop down labeled &quot;Repository Permissions&quot;."
@@ -141,6 +153,7 @@
                         <cmd>Give it Read and Write Access under Contents</cmd>
                         <info>
                             <fig id="fig_qgf_xdl_ldc">
+                                <title>Image depicting step described above</title>
                                 <image href="../Images/contentsredandwrite.png"
                                     id="image_jwq_xdl_ldc"
                                     alt="Arrow pointing to a drop down that is connected to contents."
@@ -152,6 +165,7 @@
                         <cmd>Click Generate Token</cmd>
                         <info>
                             <fig id="fig_alt_12l_ldc">
+                                <title>Image depicting step described above</title>
                                 <image href="../Images/clickgeneratetokengreenbotton.png"
                                     id="image_b5j_b2l_ldc"
                                     alt="Arrow pointing at a green button at the bottom of the page called &quot;Generate Token&quot;."
@@ -163,6 +177,7 @@
                         <cmd>Copy Access Token</cmd>
                         <info>
                             <fig id="fig_at5_d2l_ldc">
+                                <title>Image depicting step described above</title>
                                 <image href="../Images/copyaccesstoken.png" id="image_svq_22l_ldc"
                                     alt="Arrow pointing to a text box that has a copy button that will copy a link for the access token. "
                                 />
@@ -173,6 +188,7 @@
                         <cmd>Paste Access Token into Oxygen</cmd>
                         <info>
                             <fig id="fig_kk4_32l_ldc">
+                                <title>Image depicting step described above</title>
                                 <image href="../Images/pasteaccesstokenintooxygen.png"
                                     id="image_svl_r2l_ldc"
                                     alt="Arrow pointing to a text box labeled &quot;Access Token&quot;. "
@@ -186,6 +202,7 @@
                 <cmd>Click Create Project at the bottom of the screen.</cmd>
                 <info>
                     <fig id="fig_ify_hfl_ldc">
+                        <title>Image depicting step described above</title>
                         <image href="../Images/createprojectbluebotton.png" id="image_h5b_jfl_ldc"
                             alt="Arrow pointing to a blue button at the bottom of the screen labeled &quot;Create Project&quot;."
                         />
