@@ -178,8 +178,8 @@
                     <substep>
                         <cmd>Type in the text box whatever type of content you would like to add to
                             that Topic File. Examples could be Titles, Subtitles, Short
-                            descriptions, Sections, Figures, Images, Add alt text, Paragraphs, etc.
-                        </cmd>
+                            descriptions, Sections, Figures, Images, Adding alt text, Paragraphs,
+                            etc. </cmd>
                     </substep>
                 </substeps>
             </step>
