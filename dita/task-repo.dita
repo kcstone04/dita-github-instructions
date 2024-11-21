@@ -62,8 +62,19 @@
                 </info>
             </step>
             <step>
-                <cmd>Once the repository is made, go to Settings → Actions → General. Then scroll
-                    down to "Workflow permissions" and select "Read and write permissions".</cmd>
+                <cmd>Once the repository is made, Click "Settings "</cmd>
+            </step>
+            <step>
+                <cmd>Click "Actions"</cmd>
+            </step>
+            <step>
+                <cmd> Click "General"</cmd>
+            </step>
+            <step>
+                <cmd>Click on "Workflow Permissions"</cmd>
+            </step>
+            <step>
+                <cmd>Click "Read and write permissions".</cmd>
             </step>
         </steps>
     </taskbody>
