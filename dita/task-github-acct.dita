@@ -19,7 +19,7 @@
             <stepsection>
                 <fig id="fig_jq4_2hm_ldc">
                     <title>Image depicting step described above</title>
-                    <image href="../Images/SignUpForGitHub/enteremail.png" id="image_jhb_fhm_ldc"
+                    <image href="Images/SignUpForGitHub/enteremail.png" id="image_jhb_fhm_ldc"
                         alt="An arrow is pointing to a blue text box that is titled &quot;Enter your email&quot;."
                     />
                 </fig>
@@ -30,7 +30,7 @@
             <stepsection>
                 <fig id="fig_irm_4hm_ldc">
                     <title>Image depicting step described above</title>
-                    <image href="../Images/SignUpForGitHub/clickcontinueemail.png"
+                    <image href="Images/SignUpForGitHub/clickcontinueemail.png"
                         id="image_qsw_4hm_ldc"
                         alt="An arrow is pointing to a button that is labeled &quot;Continue&quot;."
                     />
@@ -46,7 +46,7 @@
                 <info>
                     <fig id="fig_bwp_rhm_ldc">
                         <title>Image depicting step described above</title>
-                        <image href="../Images/SignUpForGitHub/createpasswordemail.png"
+                        <image href="Images/SignUpForGitHub/createpasswordemail.png"
                             id="image_en2_shm_ldc"
                             alt="An arrow is pointing to a blue text box that is titled &quot;Create a password&quot;."
                         />
@@ -59,7 +59,7 @@
             <stepsection>
                 <fig id="fig_xwp_5hm_ldc">
                     <title>Image depicting step described above</title>
-                    <image href="../Images/SignUpForGitHub/clickcontunieforpassword.png"
+                    <image href="Images/SignUpForGitHub/clickcontunieforpassword.png"
                         id="image_zrz_t3m_ldc"
                         alt="An arrow is pointing to a button that is labeled &quot;Continue&quot;."
                     />
@@ -73,7 +73,7 @@
             <stepsection>
                 <fig id="fig_bdp_w3m_ldc">
                     <title>Image depicting step described above</title>
-                    <image href="../Images/SignUpForGitHub/enterusername2.png" id="image_rh3_ljm_ldc"
+                    <image href="Images/SignUpForGitHub/enterusername2.png" id="image_rh3_ljm_ldc"
                         alt="An arrow is pointing to a blue box titled &quot;Enter a username&quot;."
                     />
                 </fig>
@@ -84,7 +84,7 @@
             <stepsection>
                 <fig id="fig_ffv_w3m_ldc">
                     <title>Image depicting step described above</title>
-                    <image href="../Images/SignUpForGitHub/cusername.png" id="image_xnt_hkm_ldc"
+                    <image href="Images/SignUpForGitHub/cusername.png" id="image_xnt_hkm_ldc"
                         alt="An arrow is pointing to a button that is labeled &quot;Continue&quot;."
                     />
                 </fig>

@@ -23,7 +23,7 @@
                 <info>
                     <fig id="fig_cyp_qyz_kdc">
                         <title>Image depicting step described above</title>
-                        <image href="../Images/clickusetemp.png" id="image_l45_vyz_kdc"
+                        <image href="Images/clickusetemp.png" id="image_l45_vyz_kdc"
                             alt="Picture of arrow pointing to &quot;create a new repository&quot; button."
                         />
                     </fig>
@@ -34,7 +34,7 @@
                 <info>
                     <fig id="fig_vyj_dzz_kdc">
                         <title>Image depicting step described above</title>
-                        <image href="../Images/includebranches.png" id="image_k2s_2zz_kdc"
+                        <image href="Images/includebranches.png" id="image_k2s_2zz_kdc"
                             alt="Picture of arrow pointing to include all branches on GitHub website."
                         />
                     </fig>
@@ -45,7 +45,7 @@
                 <info>
                     <fig id="fig_etg_3zz_kdc">
                         <title>Image depicting step described above</title>
-                        <image href="../Images/namerepository.png" id="image_chw_3zz_kdc"
+                        <image href="Images/namerepository.png" id="image_chw_3zz_kdc"
                             alt="Arrow pointing to Repository Name type box."/>
                     </fig>
                 </info>
@@ -55,7 +55,7 @@
                 <info>
                     <fig id="fig_ijt_lzz_kdc">
                         <title>Image depicting step described above</title>
-                        <image href="../Images/createrepository.png" id="image_gqd_nzz_kdc"
+                        <image href="Images/createrepository.png" id="image_gqd_nzz_kdc"
                             alt="Arrow pointing to a green button at the bottom of the screen that is titled &quot;Create Repository&quot;."
                         />
                     </fig>
@@ -67,7 +67,7 @@
             <stepsection>
                 <fig id="fig_ttt_bh4_ldc">
                     <title>Image depicting step described above</title>
-                    <image href="../Images/NewStep/clicksetting2.png" id="image_o4k_dh4_ldc"
+                    <image href="Images/NewStep/clicksetting2.png" id="image_o4k_dh4_ldc"
                         alt="An arrow pointing to the top menu bar, more specifically the word labeled &quot;Settings&quot;."
                     />
                 </fig>
@@ -78,7 +78,7 @@
             <stepsection>
                 <fig id="fig_wtb_3h4_ldc">
                 <title>Image depicting step described above</title>
-            <image href="../Images/NewStep/clickaction2.png" id="image_f53_3h4_ldc"
+            <image href="Images/NewStep/clickaction2.png" id="image_f53_3h4_ldc"
                         alt="An arrow is pointing to the left menu, more specifically the word labeled &quot;Actions&quot;."
                     />
                 </fig>
@@ -89,7 +89,7 @@
             <stepsection>
                 <fig id="fig_k1z_ph4_ldc">
                     <title>Image depicting step described above</title>
-                    <image href="../Images/NewStep/gotoworkflow.png" id="image_mwg_qh4_ldc"
+                    <image href="Images/NewStep/gotoworkflow.png" id="image_mwg_qh4_ldc"
                         alt="An arrow is pointing to a section titled &quot;Workflow Permissions&quot;."
                     />
                 </fig>
@@ -99,7 +99,7 @@
             <info>
                     <fig id="fig_osd_yh4_ldc">
                         <title>Image depicting step described above</title>
-                        <image href="../Images/NewStep/readandwritepremssions.png"
+                        <image href="Images/NewStep/readandwritepremssions.png"
                             id="image_rm4_yh4_ldc"
                             alt="An arrow is pointing to a titled section called &quot;Read And Write Permissions&quot;."
                         />
